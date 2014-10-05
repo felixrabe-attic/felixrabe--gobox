@@ -16,6 +16,12 @@ This is an experiment, inspired by Busybox and Go.
 -   This project is related to the more experimental side of [Bashsh](https://github.com/mcrio/bashsh).
 
 
+Installation
+------------
+
+    go get github.com/felixrabe/gobox
+
+
 License
 -------
 
