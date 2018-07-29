@@ -1,3 +1,6 @@
+*No real code in this repository, just scaffolding.*
+
+
 gobox: Busybox-alike in Go
 ==========================
 
